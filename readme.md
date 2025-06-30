@@ -11,7 +11,7 @@ dbname = ваша_база
 user = пользователь
 password = пароль
 
-[paths]
+[path]
 querries_folder = папка_с_запросами
 output_excel = результат.xlsx
 ```
